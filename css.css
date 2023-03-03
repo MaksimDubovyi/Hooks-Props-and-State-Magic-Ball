@@ -1,0 +1,32 @@
+
+.txt{text-shadow: 2px 2px #040303; margin-left: -90px; padding-top: 8em; text-align:center;  font-size: 12px;  color: rgb(233, 235, 233); font-weight:bolder; width: 180px; height: 50px;}
+
+
+.ball{
+background: rgb(54,54,54);
+background: linear-gradient(135deg, rgba(54,54,54,1) 10%, rgba(0,0,0,1) 29%, rgba(0,0,0,1) 100%,
+rgba(246,0,0,0.7315301120448179) 165%, rgba(0,0,0,0.9948354341736695) 165%);
+border-radius: 300px;  box-shadow: 15px 15px 16px rgb(119, 109, 109);
+padding: 120px;
+width: 600px; height: 600px; margin: 100px;
+}
+
+.ball2{
+ background: rgb(0, 0, 0); 
+  border-radius: 150px;  box-shadow: 0 -2px 3px #aeaeae inset;
+  padding: 30px;
+  width: 300px; height: 300px; 
+}
+
+.triangle {
+     width: 0;
+     height: 0;
+     
+     border-left: 120px solid transparent;
+     border-right: 120px solid transparent;
+     border-bottom: 150px solid rgb(0, 0, 253);
+     box-shadow: 0 16px 25px -25px rgba(255, 255, 255, 0.5);
+
+   }
+
+ 
